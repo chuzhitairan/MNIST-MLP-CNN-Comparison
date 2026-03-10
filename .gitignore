@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+venv/
+
+# 训练产出
+data/
+checkpoints/
+runs/
+
+# IDE
+.vscode/
+.idea/
+.github/
+
